@@ -2,10 +2,14 @@
 final assignment for class
 
 
-dependancies should all be included in the environment
+dependancies should all be included in the environment.
+
 running the project consists of going into
-Project Files for grading  -> app -> evaluate_submission.ipynb and run all cells. 
+
+Project Files for grading  -> app -> evaluate_submission.ipynb 
+and run all cells. 
 place any image into the submission folder next to the notebook
+
 it SHOULD batch run.
 
 The model is saved in models
